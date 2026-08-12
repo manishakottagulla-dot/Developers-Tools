@@ -1,4 +1,19 @@
-a=20
+print("hello world")
+a=10
 b=30
 c=a+b
-print("sum of addition operation is ", c)
+print(c)
+a=5
+b=10
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+print(a**b)
+print(a//b)
+print(a%b)
+
+
+
